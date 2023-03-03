@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b15baaa4-8982-4513-94f0-67ea4e391bbb" name="Changes" comment="">
+    <list default="true" id="b15baaa4-8982-4513-94f0-67ea4e391bbb" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Year-11-CS-Unit-6-Lab-RankingSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Year-11-CS-Unit-6-Lab-RankingSystem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -31,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
   <component name="RunManager" selected="JUnit.UserTester">
     <configuration name="UserTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Year-11-CS-Unit-6-Lab-RankingSystem" />
@@ -109,8 +109,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675134985003</updated>
+      <workItem from="1677737585998" duration="1682000" />
+      <workItem from="1677739301082" duration="1005000" />
+      <workItem from="1677813058663" duration="2027000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -122,5 +128,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
